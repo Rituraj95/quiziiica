@@ -14,9 +14,9 @@ function App() {
   const [quizTitle, setQuizTitle] = useState('');
 
   const quizzes = {
-    'Internet pdf 1': quiz1,
-    'Internet pdf 2': quiz2,
-    'Internet pdf 3': quiz3
+    '15 august quiz': quiz1,
+    '16 august quiz': quiz2,
+    '17 august quiz': quiz3
   };
 
   const startQuiz = (quizKey) => {
@@ -40,7 +40,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>RRB PO/CLERK MAINS COMPUTER AWARENESS</h1>
+      <h1>CURRENT AFFAIRS DAILY QUIZ </h1>
       
       {!selectedQuiz ? (
         <div className="quiz-selection">
