@@ -6,6 +6,12 @@ import { quiz1 } from './components/quiz1quetions';
 import { quiz2 } from './components/quiz2quetions';
 import { quiz3 } from './components/quiz3quetions';
 import { quiz4 } from './components/quiz4quetions';
+import { quiz5 } from './components/quiz5quetions';
+import { quiz6 } from './components/quiz6quetions';
+
+
+
+
 
 
 
@@ -22,6 +28,12 @@ function App() {
     '20 august quiz': quiz2,
     '21 august quiz': quiz3,
     '22 august quiz': quiz4,
+    '23 august quiz': quiz5,
+    '26 august quiz': quiz6,
+
+
+
+
 
     
   };
