@@ -8,6 +8,8 @@ import { quiz3 } from './components/quiz3quetions';
 import { quiz4 } from './components/quiz4quetions';
 import { quiz5 } from './components/quiz5quetions';
 import { quiz6 } from './components/quiz6quetions';
+import { quiz7 } from './components/quiz7quetions';
+
 
 
 
@@ -30,6 +32,7 @@ function App() {
     '22 august quiz': quiz4,
     '23 august quiz': quiz5,
     '26 august quiz': quiz6,
+    '2 september quiz': quiz7,
 
 
 
